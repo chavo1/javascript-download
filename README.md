@@ -1,4 +1,4 @@
-# Download script for terraform products
+# Download script for HashiCorp products
 
 ## Prerequisites
 
